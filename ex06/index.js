@@ -1,3 +1,4 @@
+// Printing 8 Every time, using different Arithmetic Operators:
 // Addition:
 var num1 = 4;
 var num2 = 4;

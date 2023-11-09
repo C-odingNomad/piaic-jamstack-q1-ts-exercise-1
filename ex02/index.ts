@@ -1,3 +1,5 @@
+// Different Cases of Name:
+
 var nameOfPerson: string = "Zeeshan Hassan";
 console.log("Uppercase = " + nameOfPerson.toUpperCase());
 console.log("Lowercase =" + nameOfPerson.toLowerCase());
