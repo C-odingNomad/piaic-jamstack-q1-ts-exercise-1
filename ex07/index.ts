@@ -1,4 +1,6 @@
-// Revealing My Favorite Number:
+// Name: Zeeshan Hassan
+// Date: 13 / 11 / 2023
 
-var favouriteNumber: number = 7;
-console.log(`My favourite number is ${favouriteNumber}`);
+// Revealing My Favorite Number:
+var favNumber: number = 7;
+console.log(`My favourite number is ${favNumber}`);
