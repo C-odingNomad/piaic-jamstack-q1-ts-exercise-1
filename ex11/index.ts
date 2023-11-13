@@ -1,7 +1,13 @@
+// Name: Zeeshan Hassan
+// Date: 13 / 11 / 2023
 // Mode of Transportation:
 
-var modeOfTransportation: string[] = ["Bicycle", "Honda", "Toyota Corolla", "Tesla Model X"];
-console.log(`I would like to own a ${modeOfTransportation[0]}.`);
-console.log(`I would like to own a ${modeOfTransportation[1]}.`);
-console.log(`I would like to own a ${modeOfTransportation[2]}.`);
-console.log(`I would like to own a ${modeOfTransportation[3]}.`);
+var modeOfTransportation: string[] = [
+  "Bicycle",
+  "Honda Motorcycle",
+  "Toyota Corolla",
+  "Tesla Model X",
+];
+for (var i = 0; i < modeOfTransportation.length; i++) {
+  console.log(`I would like to own a ${modeOfTransportation[i]}.`);
+}

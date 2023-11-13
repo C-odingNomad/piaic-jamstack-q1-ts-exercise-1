@@ -1,3 +1,5 @@
+// Name: Zeeshan Hassan
+// Date: 13 / 11 / 2023
 // Different Cases of Name:
 var nameOfPerson = "Zeeshan Hassan";
 console.log("Uppercase = " + nameOfPerson.toUpperCase());

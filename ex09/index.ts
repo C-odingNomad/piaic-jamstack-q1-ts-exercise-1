@@ -1,7 +1,14 @@
+// Name: Zeeshan Hassan
+// Date: 13 / 11 / 2023
+
 // Creating An Array of my friends. Accessing all element one-by-one one at a time.
 
-var namesOfFriends: string[] = ["Muhammad Ali", "Raza Hassan", "Shafi Hassan", "Ahmed Ali"];
-console.log(namesOfFriends[0]);
-console.log(namesOfFriends[1]);
-console.log(namesOfFriends[2]);
-console.log(namesOfFriends[3]);
+var namesOfFriends: string[] = [
+  "Muhammad Ali",
+  "Raza Hassan",
+  "Shafi Hassan",
+  "Ahmed Ali",
+];
+for (var i = 0; i < namesOfFriends.length; i++) {
+    console.log(namesOfFriends[i]);
+}

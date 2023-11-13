@@ -1,3 +1,6 @@
+// Name: Zeeshan Hassan
+// Date: 13 / 11 / 2023
+
 // Printing 8 Every time, using different Arithmetic Operators:
 
 // Addition:
@@ -8,11 +11,11 @@ console.log(num);
 // Division:
 var num1: number = 16;
 num1 /= 2;
-console.log(num1)
+console.log(num1);
 
 // Subtraction:
 var num2: number = 12;
-num2 -=4;
+num2 -= 4;
 console.log(num2);
 
 // Multiplication:

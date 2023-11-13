@@ -1,5 +1,12 @@
-var modeOfTransportation = ["Bicycle", "Honda", "Toyota Corolla", "Tesla Model X"];
-console.log("I would like to own a ".concat(modeOfTransportation[0], "."));
-console.log("I would like to own a ".concat(modeOfTransportation[1], "."));
-console.log("I would like to own a ".concat(modeOfTransportation[2], "."));
-console.log("I would like to own a ".concat(modeOfTransportation[3], "."));
+// Name: Zeeshan Hassan
+// Date: 13 / 11 / 2023
+// Mode of Transportation:
+var modeOfTransportation = [
+    "Bicycle",
+    "Honda Motorcycle",
+    "Toyota Corolla",
+    "Tesla Model X",
+];
+for (var i = 0; i < modeOfTransportation.length; i++) {
+    console.log("I would like to own a ".concat(modeOfTransportation[i], "."));
+}
