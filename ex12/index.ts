@@ -2,7 +2,7 @@
 // Date: 13 / 11 / 2023
 
 // List of guests inviting them to a dinner:
-var guestList: string[] = ["Minahil", "Raza", "Ali", "Shafi"];
+let guestList: string[] = ["Minahil", "Raza", "Ali", "Shafi"];
 
 for (var i = 0; i < guestList.length; i++) {
   console.log(

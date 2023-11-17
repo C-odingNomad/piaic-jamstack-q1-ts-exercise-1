@@ -3,12 +3,12 @@
 
 // Creating An Array of my friends. Accessing all element one-by-one one at a time.
 
-var namesOfFriends: string[] = [
+let namesOfFriends: string[] = [
   "Muhammad Ali",
   "Raza Hassan",
   "Shafi Hassan",
   "Ahmed Ali",
 ];
-for (var i = 0; i < namesOfFriends.length; i++) {
+for (let i = 0; i < namesOfFriends.length; i++) {
     console.log(namesOfFriends[i]);
 }

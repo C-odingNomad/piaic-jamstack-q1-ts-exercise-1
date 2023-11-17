@@ -3,12 +3,12 @@
 
 // Greetings (Personalized Message):
 
-var namesOfFriends: string[] = [
+let namesOfFriends: string[] = [
   "Muhammad Ali",
   "Raza Hassan",
   "Shafi Hassan",
   "Ahmed Ali",
 ];
-for (var i = 0; i < namesOfFriends.length; i++) {
+for (let i = 0; i < namesOfFriends.length; i++) {
   console.log(`Hi ${namesOfFriends[i]}, how are you?`);
 }

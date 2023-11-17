@@ -2,7 +2,7 @@
 // Date: 13 / 11 / 2023
 // Mode of Transportation:
 
-var modeOfTransportation: string[] = [
+let modeOfTransportation: string[] = [
   "Bicycle",
   "Honda Motorcycle",
   "Toyota Corolla",
