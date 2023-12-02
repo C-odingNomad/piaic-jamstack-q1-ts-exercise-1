@@ -6,4 +6,4 @@
 let famous_person: string = "Quaid e Azam";
 let message: string =
   "With faith, discipline and selfless devotion to duty, there is nothing worthwhile that you cannot achieve.";
-console.log(message);
+console.log(`${famous_person} once said, "${message}"`);

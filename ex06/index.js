@@ -2,18 +2,10 @@
 // Date: 13 / 11 / 2023
 // Printing 8 Every time, using different Arithmetic Operators:
 // Addition:
-var num = 4;
-num += 4;
-console.log(num);
+console.log(4 + 4);
 // Division:
-var num1 = 16;
-num1 /= 2;
-console.log(num1);
+console.log(16 / 2);
 // Subtraction:
-var num2 = 12;
-num2 -= 4;
-console.log(num2);
+console.log(10 - 2);
 // Multiplication:
-var num3 = 4;
-num3 *= 2;
-console.log(num3);
+console.log(4 * 2);

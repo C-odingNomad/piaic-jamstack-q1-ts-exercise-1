@@ -4,21 +4,13 @@
 // Printing 8 Every time, using different Arithmetic Operators:
 
 // Addition:
-let num: number = 4;
-num += 4;
-console.log(num);
+console.log(4 + 4);
 
 // Division:
-let num1: number = 16;
-num1 /= 2;
-console.log(num1);
+console.log( 16 / 2);
 
 // Subtraction:
-let num2: number = 12;
-num2 -= 4;
-console.log(num2);
+console.log(10 - 2);
 
 // Multiplication:
-let num3: number = 4;
-num3 *= 2;
-console.log(num3);
+console.log(4 * 2);

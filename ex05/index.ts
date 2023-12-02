@@ -3,6 +3,6 @@
 
 // Stripping Names:
 
-let personName: string = "\t \n Zeeshan Hassan";
+let personName: string = "\t Zeeshan Hassan\n";
 console.log(personName);
 console.log(personName.trim());

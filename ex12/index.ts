@@ -6,6 +6,6 @@ let guestList: string[] = ["Minahil", "Raza", "Ali", "Shafi"];
 
 for (var i = 0; i < guestList.length; i++) {
   console.log(
-    `Hi ${guestList[i]}, I have arranged a dinner for you tonight. Your presence would be amazing !`
+    `Hi ${guestList[i]}, You're invited to our home tonight for a dinner. Your presence would be amazing !`
   );
 }
