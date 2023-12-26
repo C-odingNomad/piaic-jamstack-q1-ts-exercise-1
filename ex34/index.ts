@@ -2,7 +2,9 @@
 // Zeeshan Hassan
 
 // Creating a function for making shirts:
-function make_shirt(size:number, message: string) {
-    console.log(`${size}inch is the size of this shirt and "${message}" is the message which will be print on this shirt.`)
+function make_shirt(size: string, message: string) {
+  console.log(
+    `This shirt is of ${size} size. On which "${message}" is printed.`
+  );
 }
-make_shirt(5,"Hello World");
+make_shirt("medium", "Hello World");
