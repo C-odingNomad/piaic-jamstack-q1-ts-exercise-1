@@ -10,7 +10,6 @@ function show_magicians(magicians: string[]) {
   }
 }
 
-// const magicians = ["Houdini", "Criss", "Blaine", "Teller", "Shin"];
 function make_magicians_great(magicians: string[]) {
   for (const magician of magicians) {
     console.log(`Great ${magician}`);
