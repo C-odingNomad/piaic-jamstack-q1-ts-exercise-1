@@ -13,6 +13,6 @@ function sandwichItems(...ingredients: string[]) {
     }
   }
 }
-sandwichItems("Cheese", "Butter", "Black Pepper", "Salt")
-sandwichItems("Kecthup", "Mashed Potatoes")
-sandwichItems("Boiled Eggs", "Mayonees")
+sandwichItems("Cheese", "Butter", "Black Pepper", "Salt");
+sandwichItems("Kecthup", "Mashed Potatoes");
+sandwichItems("Boiled Eggs", "Mayonees");
