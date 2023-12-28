@@ -1,6 +1,6 @@
 // Date: 27/12/2023
 // Zeeshan Hassan
-//
+//Creating an object inside a function to store information of cars:-
 function myCar(manufacturer, modelName, otherInfo) {
     if (otherInfo) {
         var carInfo = {
